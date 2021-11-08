@@ -1,0 +1,29 @@
+,0,1,2,3,4,5,6,7
+0,,2014.0,2015.0,2016.0,2017.0,2018.0,2019.0,2020.0
+1,Površina (u km2),56.594,56.594,56.594,56.594,56.594,56.594,56.594
+2,Broj stanovnika (u mil.) a,4238.0,4204.0,4174.0,4125.0,4088.0,4065.0,4047.0
+3,"BDP (u mil. HRK, tekuće cijene) b",331.322,339.663,351.197,367.501,385.377,402.337,370.166
+4,"BDP (u mil. EUR, tekuće cijene)",43.423,44.636,46.644,49.262,51.979,54.27,49.139
+5,BDP po stanovniku (u EUR),10.246,10.618,11.174,11.942,12.716,13.35,12.141
+6,BDP - realna godišnja stopa promjene (u %),-3.0,24.0,35.0,34.0,28.0,29.0,-84.0
+7,Prosječna godišnja stopa inflacije potrošačkih cijena,-2.0,-5.0,-11.0,11.0,15.0,8.0,1.0
+8,Tekući račun platne bilance (u mil. EUR) c,111.0,1.461,1.003,1.691,935.0,1.52,-379.0
+9,Tekući račun platne bilance (u % BDP-a),3.0,33.0,21.0,34.0,18.0,28.0,-8.0
+10,Izvoz robe i usluga (u % BDP-a),433.0,464.0,477.0,500.0,502.0,520.0,427.0
+11,Uvoz robe i usluga (u % BDP-a),437.0,461.0,465.0,493.0,510.0,522.0,497.0
+12,"Inozemni dug (u mil. EUR, na kraju razdoblja) c",49.095,48.23,44.714,43.683,42.71,40.877,40.624
+13,Inozemni dug (u % BDP-a),1131.0,1081.0,959.0,887.0,822.0,753.0,827.0
+14,Inozemni dug (u % izvoza robe i usluga),2609.0,2327.0,2010.0,1775.0,1637.0,1448.0,1934.0
+15,Otplaćeni inozemni dug (u % izvoza robe i usluga) d,463.0,440.0,357.0,331.0,271.0,296.0,355.0
+16,"Bruto međunarodne pričuve (u mil. EUR, na kraju razdoblja)",12.688,13.707,13.514,15.706,17.438,18.56,18.943
+17,"Bruto međunarodne pričuve (u mjesecima uvoza robe i usluga, na kraju razdoblja)",80.0,80.0,75.0,78.0,79.0,79.0,93.0
+18,Nacionalna valuta: kuna (HRK),,,,,,,
+19,Devizni tečaj za 31. prosinca (HRK : 1 EUR),76615.0,76350.0,75578.0,75136.0,74176.0,74426.0,75369.0
+20,Devizni tečaj za 31. prosinca (HRK : 1 USD),63021.0,69918.0,71685.0,62697.0,64692.0,66499.0,61390.0
+21,Prosječni devizni tečaj (HRK : 1 EUR),76300.0,76096.0,75294.0,74601.0,74141.0,74136.0,75331.0
+22,Prosječni devizni tečaj (HRK : 1 USD),57493.0,68623.0,68037.0,66224.0,62784.0,66223.0,66108.0
+23,Neto pozajmljivanje (+)/zaduživanje (-) konsolidirane opće države (u mil. HRK) e,-18.346,-11.75,-3.303,2.956,962.0,1.589,
+24,Neto pozajmljivanje (+)/zaduživanje (-) konsolidirane opće države (u % BDP-a) e,-55.0,-35.0,-9.0,8.0,2.0,4.0,
+25,Dug opće države (u % BDP-a) e,848.0,843.0,808.0,776.0,743.0,728.0,891.0
+26,"Stopa nezaposlenosti (prema definiciji ILO-a, stanovništvo starije od 15 god.) f",173.0,162.0,131.0,112.0,84.0,66.0,
+27,"Stopa zaposlenosti (prema definiciji ILO-a, stanovništvo starije od 15 god.) f",433.0,442.0,446.0,458.0,469.0,477.0,
